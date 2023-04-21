@@ -1,0 +1,15 @@
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\bin\Debug\net6.0\Clock_Angle.exe
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\bin\Debug\net6.0\Clock_Angle.deps.json
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\bin\Debug\net6.0\Clock_Angle.runtimeconfig.json
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\bin\Debug\net6.0\Clock_Angle.dll
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\bin\Debug\net6.0\Clock_Angle.pdb
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.dll
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\refint\Clock_Angle.dll
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.pdb
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\Clock_Angle.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\ReizTech\Clock_Angle\obj\Debug\net6.0\ref\Clock_Angle.dll
